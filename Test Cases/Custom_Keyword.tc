@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Custom_Keyword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0112ab4-d7ba-4557-a0aa-82efdc92b74c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>599133d8-82c0-4230-9d12-d9d35273e4a5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>599133d8-82c0-4230-9d12-d9d35273e4a5</id>
+      <masked>false</masked>
+      <name>NoKTP</name>
+   </variable>
+</TestCaseEntity>
